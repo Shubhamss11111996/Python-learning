@@ -1,0 +1,5 @@
+pandas
+sqlalchemy
+cx_Oracle
+pyspark
+
